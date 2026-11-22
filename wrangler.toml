@@ -1,0 +1,5 @@
+name = "hono_edge_microservices_blueprint"
+compatibility_date = "2024-01-01"
+account_id = "cfut_dHd"
+workers_dev = true
+kv_namespaces = []
